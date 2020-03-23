@@ -49,5 +49,5 @@ Collaboration is of vital importance to most developer jobs. Even if you’re wo
 ### Thirst for Knowledge
 All good developers, mobile or otherwise, are committed to lifelong learning. Especially in the rapidly developing landscape of mobile apps: with the advent of wearables, TV apps, auto apps, and more, mobile developers must keep their eyes and ears open to new technology and changing best practices. No matter how advanced you get, don’t stop investigating, exploring, playing around, and asking questions.
 
-### The Bottom Line
+# The Bottom Line
 Mobile apps are in higher demand than ever, which makes right now an incredible time to launch your career as an Android developer. As Android expands beyond the consumer space to work and education, and continues to push the bounds of rich cross-device user experiences with the new Material design language, it’s a particularly exciting time to dive into Android development. So go ahead, feet first. The water’s warm.
