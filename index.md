@@ -24,7 +24,7 @@ The most basic building block of Android development is the programming language
 
 ### SQL
 You’ll also need to learn the basics of SQL in order to organize the databases within Android apps. SQL is a language for expressing queries to retrieve information from to databases. Once you can write it, there won’t be any questions you can’t ask of your data.
-
+### Android Software Development Kit (SDK) and Android Studio
 One of the best parts about developing for Android is that the necessary tools are free and easy to obtain. The Android SDK is available via free-of-charge download, as is Android Studio, the official integrated development environment (IDE) for Android app development. Android Studio is the main program with which developers write code and assemble their apps from various packages and libraries. The Android SDK includes sample code, software libraries, handy coding tools, and much more to help you build, test, and debug Android applications.
 
 Another highlight of developing for Android is the ease of the process of submitting apps. Once you’re ready to submit your app to the Google Play store, register for a Google Play publisher account (which includes paying a $25 fee via Google Wallet), follow Android’s launch checklist, submit through the Google Play Developer Console, wait for Google to approve, and see it appear. Simple and satisfying.
@@ -32,7 +32,7 @@ Another highlight of developing for Android is the ease of the process of submit
 ### XML
 Programmers use XML to describe data. The basics of the XML syntax will be helpful in your journey to full-fledged Android developer in doing tasks like designing user interface (UI) layouts and parsing data feeds from the internet. Much of what you’ll need XML for can be done through Android Studio, but it’s constructive to be grounded in the basics of the markup language.
 
-The Hard Skills: How to Learn and Showcase Them
+# The Hard Skills: How to Learn and Showcase Them
 Resources abound for Android developers to sharpen their skills and share tips and best practices. A few industry favorites include Stack Overflow, Android Weekly, the Android Dev subreddit, vogella tutorials, YouTube lessons, and Google’s official Android Developers site—especially the Building Your First App module. If you’re more of a print learner, popular Android books include Head First Java, Android Programming: Pushing the Limits, and Java: A Beginner’s Guide.
 
 As you start to think about attracting job opportunities, and selling yourself as a viable candidate, consider showcasing your Android work on LinkedIn, Xing, through an online personal portfolio, or on sites like Behance and GitHub. Rub elbows, in person and virtually, with other Android developers and hiring managers or recruiters through meetups, conferences such as droidcon, and digital networking hubs like LinkedIn groups, Twitter chats, and Quora feeds. You never know what you’ll learn, or who you’ll meet.
